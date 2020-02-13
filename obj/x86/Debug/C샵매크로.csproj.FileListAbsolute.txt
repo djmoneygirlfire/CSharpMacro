@@ -1,0 +1,9 @@
+D:\프로그램\자작\C샵매크로\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\프로그램\자작\C샵매크로\obj\x86\Debug\C샵매크로.Form1.resources
+D:\프로그램\자작\C샵매크로\obj\x86\Debug\C샵매크로.Properties.Resources.resources
+D:\프로그램\자작\C샵매크로\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\프로그램\자작\C샵매크로\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\프로그램\자작\C샵매크로\bin\Debug\C샵매크로.exe
+D:\프로그램\자작\C샵매크로\bin\Debug\C샵매크로.pdb
+D:\프로그램\자작\C샵매크로\obj\x86\Debug\C샵매크로.exe
+D:\프로그램\자작\C샵매크로\obj\x86\Debug\C샵매크로.pdb
